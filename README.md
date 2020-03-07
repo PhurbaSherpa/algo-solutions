@@ -35,3 +35,5 @@ Created this repo for the sole purposes of keeping track of my solutions. I am c
 - [checkPermutation](ctci-cake/checkPermutation.js)
 - [isUnique](ctci-cake/isUnique.js)
 - [URLify](ctci-cake/URLify.js)
+- [isBinarySearchTree](ctci-cake/validTree.js)
+- [isBalanced](ctci-cake/isBalanced.js)

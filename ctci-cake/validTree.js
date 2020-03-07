@@ -16,8 +16,8 @@ function isBinarySearchTreeIterative(treeRoot) {
 }
 
 function isBinarySearchTreeRecursively(treeRoot, lowerBound, upperBound) {
-  lowerBound = lowerBound ? lowerBound : Number.NEGATIVE_INFINITY;
-  upperBound = upperBound ? upperBound : Number.POSITIVE_INFINITY;
+  lowerBound = lowerBound ? lowerBound : -INFINITY;
+  upperBound = upperBound ? upperBound : INFINITY;
 
   if (!treeRoot) return true;
 
