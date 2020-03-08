@@ -1,6 +1,6 @@
 # Purpose
 
-Created this repo for the sole purposes of keeping track of my solutions. I am currently using a variety of sources for finding problems. Right now I am using mostly LeetCode but am also sourcing from InterviewCake as well as from Cracking the Coding Interview Book a.k.a CTCI. I will be seperating each by grouping of LC and (Cake && CTCI together)
+Created this repo for the sole purposes of keeping track of my solutions. I am currently using a variety of sources for finding problems. Right now I am using mostly LeetCode but am also sourcing from InterviewCake as well as from Cracking the Coding Interview Book a.k.a CTCI and some questions I got from coding assesments. I will be seperating each by grouping of LC (LeetCode) and ctci-cake (Cake && CTCI together) and random(coding assessments),
 
 # LC Problems
 
@@ -38,3 +38,9 @@ Created this repo for the sole purposes of keeping track of my solutions. I am c
 - [isBinarySearchTree](ctci-cake/validTree.js)
 - [isBalanced](ctci-cake/isBalanced.js)
 - [findSecondLargest](ctci-cake/findSecondLargestTree.js)
+
+# Random
+
+- [findDifference](random/findTimeDiff.js)
+- [race](random/race.js) \*requires findDifference
+- [sortCols](random/sortcols.js)
