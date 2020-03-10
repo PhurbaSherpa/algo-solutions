@@ -38,6 +38,7 @@ Created this repo for the sole purposes of keeping track of my solutions. I am c
 - [isBinarySearchTree](ctci-cake/validTree.js)
 - [isBalanced](ctci-cake/isBalanced.js)
 - [findSecondLargest](ctci-cake/findSecondLargestTree.js)
+- [graphColoring](ctci-cake/graphColoring.js)
 
 # Random
 
