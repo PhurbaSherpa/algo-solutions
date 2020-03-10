@@ -39,9 +39,10 @@ Created this repo for the sole purposes of keeping track of my solutions. I am c
 - [isBalanced](ctci-cake/isBalanced.js)
 - [findSecondLargest](ctci-cake/findSecondLargestTree.js)
 - [graphColoring](ctci-cake/graphColoring.js)
+- [meshMessage](ctci-cake/meshMessage.js)
 
 # Random
 
 - [findDifference](random/findTimeDiff.js)
-- [race](random/race.js) \*requires findDifference
+- [race](random/race.js)
 - [sortCols](random/sortcols.js)
