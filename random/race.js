@@ -11,7 +11,6 @@ function race(arr) {
     if (a.time > b.time) return 1;
     return 0;
   });
-  console.log(arr);
   if (arr[0].time === "dnf") {
     return "No winners";
   }
@@ -21,9 +20,6 @@ function race(arr) {
     first = arr[0].time.split(":");
     second = arr[1].time.split(":");
     let diff = findDiff(first, second);
-    console.log(
-      `${arr[0].name} won by ${diff[0]} hours, ${diff[1]} mins, ${diff[2]} secs`
-    );
     return `${arr[0].name} won by ${diff[0]} hours, ${diff[1]} mins, ${diff[2]} secs`;
   }
 }

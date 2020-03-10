@@ -2,32 +2,41 @@
 
 function sortcols(str) {
   str = str.split("\n").map(s => s.split(","));
-
   str[0].sort((a, b) => {
+    // console.log(str[0]);
     aL = a.toLowerCase();
     bL = b.toLowerCase();
     let aIdx = str[0].indexOf(a);
     let bIdx = str[0].indexOf(b);
+    // console.log(aIdx, bIdx);
 
     if (aL < bL) {
-      swap(str, aIdx, bIdx);
+      swap(aIdx, bIdx);
+      // console.log("smaller");
       return -1;
     }
-    if (aL < bL) {
+    if (aL > bL) {
+      // console.log("rbigger");
+      swap(bIdx, aIdx);
       return 1;
-    } else return 0;
+    }
+    // console.log("equal");
+    return 0;
   });
 
-  function swap(str, idx1, idx2) {
+  console.log(str);
+  return str;
+
+  function swap(idx1, idx2) {
+    console.log(idx1, idx2);
+    console.log(str[0][idx1], str[0][idx2]);
+
     for (let i = 0; i < str.length; i++) {
       let temp = str[i][idx1];
       str[i][idx1] = str[i][idx2];
       str[i][idx2] = temp;
     }
   }
-  console.log(str);
-
-  return str;
 }
 
 sortcols(
