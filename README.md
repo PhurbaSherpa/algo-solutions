@@ -48,3 +48,4 @@ Created this repo for the sole purposes of keeping track of my solutions. I am c
 - [sortCols](random/sortcols.js)
 - [mixPotions](random/mixPotions.js)
 - [medianSort](random/medianSort.js)
+- [tictacetoe](random/tictactoe.js)
