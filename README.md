@@ -46,3 +46,4 @@ Created this repo for the sole purposes of keeping track of my solutions. I am c
 - [findDifference](random/findTimeDiff.js)
 - [race](random/race.js)
 - [sortCols](random/sortcols.js)
+- [mixPotions](random/mixPotions.js)
