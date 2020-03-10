@@ -47,3 +47,4 @@ Created this repo for the sole purposes of keeping track of my solutions. I am c
 - [race](random/race.js)
 - [sortCols](random/sortcols.js)
 - [mixPotions](random/mixPotions.js)
+- [medianSort](random/medianSort.js)
