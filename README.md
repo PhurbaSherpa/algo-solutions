@@ -40,6 +40,7 @@ Created this repo for the sole purposes of keeping track of my solutions. I am c
 - [findSecondLargest](ctci-cake/findSecondLargestTree.js)
 - [graphColoring](ctci-cake/graphColoring.js)
 - [meshMessage](ctci-cake/meshMessage.js)
+- [findDuplicated](ctci-cake/findDuplicate.js)
 
 # Random
 
