@@ -42,6 +42,7 @@ Created this repo for the sole purposes of keeping track of my solutions. I am c
 - [meshMessage](ctci-cake/meshMessage.js)
 - [findDuplicated](ctci-cake/findDuplicate.js)
 - [getPermutations](ctci-cake/getPermutations.js)
+- [fibonacci](ctci-cake/fibonacci.js)
 
 # Random
 
