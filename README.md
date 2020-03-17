@@ -41,6 +41,7 @@ Created this repo for the sole purposes of keeping track of my solutions. I am c
 - [graphColoring](ctci-cake/graphColoring.js)
 - [meshMessage](ctci-cake/meshMessage.js)
 - [findDuplicated](ctci-cake/findDuplicate.js)
+- [getPermutations](ctci-cake/getPermutations.js)
 
 # Random
 
