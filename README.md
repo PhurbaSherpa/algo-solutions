@@ -29,6 +29,7 @@ Created this repo for the sole purposes of keeping track of my solutions. I am c
 ## Hard
 
 - #42 Trapping Rain Water https://leetcode.com/problems/trapping-rain-water/ ---> [Solution](LeetCode/hard/trappingRainWater.js)
+- #214 Shortest Palindrom https://leetcode.com/problems/shortest-palindrome/ ---> [Solution](LeetCode/hard/shortestPalindrome.js)
 
 # CTCI-CAKE
 
