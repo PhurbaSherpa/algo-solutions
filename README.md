@@ -16,6 +16,7 @@ Created this repo for the sole purposes of keeping track of my solutions. I am c
 
 - #2 Add Two Numbers https://leetcode.com/problems/add-two-numbers ---> [Solution](LeetCode/medium/addTwoNumbers.js)
 - #3 Longest Substring Without Repeating Characters https://leetcode.com/problems/longest-substring-without-repeating-characters ---> [Solution](LeetCode/medium/longestNonRepeatingSubstring.js)
+- #39 Combination Sum https://leetcode.com/problems/combination-sum/ ---> [Solution](Leetcode/medium/combinationSum.js)
 - #54 Spiral Matrix https://leetcode.com/problems/spiral-matrix ---> [Solution](LeetCode/medium/spiralMatrix.js)
 - #94 Binary Tree Inorder Traversal https://leetcode.com/problems/binary-tree-inorder-traversal ---> [Solution](LeetCode/medium/inorderTraversal.js)
 - #322 Coin Change https://leetcode.com/problems/coin-change/ ---> [Solution](LeetCode/medium/coinChange.js)
