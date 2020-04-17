@@ -10,6 +10,7 @@ If you happen to see this any feedback is appreciated.
 
 - #1 Two Sum https://leetcode.com/problems/two-sum ---> [Solution](LeetCode/easy/twosum.js)
 - #7 Reverse Integer https://leetcode.com/problems/reverse-integer/ ---> [Solution](LeetCode/easy/reverseNumber.js)
+- #70 Climbing Stairs https://leetcode.com/problems/climbing-stairs/ ---> [Solution](Leetcode/easy/climbingStairs.js)
 - #189 Rotate Array https://leetcode.com/problems/rotate-array/ ---> [Solution](LeetCode/easy/rotatearray.js)
 - #628 Maximum Product of Three Numbers https://leetcode.com/problems/maximum-product-of-three-numbers/ ---> [Solution](LeetCode/easy/maxproductthreenums.js)
 - #994 Rotting Oranges https://leetcode.com/problems/rotting-oranges ---> [Solution](LeetCode/easy/rottingoranges.js)
