@@ -22,6 +22,7 @@ If you happen to see this any feedback is appreciated.
 - #48 Rotate Image https://leetcode.com/problems/rotate-image/ ---> [Solution](Leetcode/medium/rotateImage.js)
 - #49 Group Anagrams https://leetcode.com/problems/group-anagrams/ ---> [Solution](Leetcode/medium/groupAnagrams.js)
 - #54 Spiral Matrix https://leetcode.com/problems/spiral-matrix ---> [Solution](LeetCode/medium/spiralMatrix.js)
+- #55 Jump Game https://leetcode.com/problems/jump-game/ ---> [Solution](Leetcode/medium/jumpGame.js)
 - #94 Binary Tree Inorder Traversal https://leetcode.com/problems/binary-tree-inorder-traversal ---> [Solution](LeetCode/medium/inorderTraversal.js)
 - #322 Coin Change https://leetcode.com/problems/coin-change/ ---> [Solution](LeetCode/medium/coinChange.js)
 - #430 Flatten a Multilevel Doubly Linked List https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list ---> [Solution](LeetCode/medium/flattendoublylinkedlist.js)
