@@ -25,6 +25,7 @@ If you happen to see this any feedback is appreciated.
 - #54 Spiral Matrix https://leetcode.com/problems/spiral-matrix ---> [Solution](LeetCode/medium/spiralMatrix.js)
 - #55 Jump Game https://leetcode.com/problems/jump-game/ ---> [Solution](Leetcode/medium/jumpGame.js)
 - #73 Set Matrix Zeroes https://leetcode.com/problems/set-matrix-zeroes/ ---> [Solution](Leetcode/medium/setMatrixZeroes.js)
+- #79 Word Search https://leetcode.com/problems/word-search/ ---> [Solution](Leetcode/medium/wordSearch.js)
 - #94 Binary Tree Inorder Traversal https://leetcode.com/problems/binary-tree-inorder-traversal ---> [Solution](LeetCode/medium/inorderTraversal.js)
 - #322 Coin Change https://leetcode.com/problems/coin-change/ ---> [Solution](LeetCode/medium/coinChange.js)
 - #430 Flatten a Multilevel Doubly Linked List https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list ---> [Solution](LeetCode/medium/flattendoublylinkedlist.js)
