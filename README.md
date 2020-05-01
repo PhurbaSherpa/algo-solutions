@@ -13,6 +13,7 @@ If you happen to see this any feedback is appreciated.
 - #70 Climbing Stairs https://leetcode.com/problems/climbing-stairs/ ---> [Solution](Leetcode/easy/climbingStairs.js)
 - #100 Same Tree https://leetcode.com/problems/same-tree/ ---> [Solution](Leetcode/easy/sameTree.js)
 - #189 Rotate Array https://leetcode.com/problems/rotate-array/ ---> [Solution](LeetCode/easy/rotatearray.js)
+- #278 First Bad Version https://leetcode.com/problems/first-bad-version/ ---> [Solution](LeetCode/easy/isBadVersion.js)
 - #628 Maximum Product of Three Numbers https://leetcode.com/problems/maximum-product-of-three-numbers/ ---> [Solution](LeetCode/easy/maxproductthreenums.js)
 - #994 Rotting Oranges https://leetcode.com/problems/rotting-oranges ---> [Solution](LeetCode/easy/rottingoranges.js)
 
