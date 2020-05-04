@@ -15,6 +15,7 @@ If you happen to see this any feedback is appreciated.
 - #189 Rotate Array https://leetcode.com/problems/rotate-array/ ---> [Solution](LeetCode/easy/rotatearray.js)
 - #278 First Bad Version https://leetcode.com/problems/first-bad-version/ ---> [Solution](LeetCode/easy/isBadVersion.js)
 - #628 Maximum Product of Three Numbers https://leetcode.com/problems/maximum-product-of-three-numbers/ ---> [Solution](LeetCode/easy/maxproductthreenums.js)
+- #771 Jewels and Stones https://leetcode.com/problems/jewels-and-stones/ ---> [Solution](LeetCode/easy/jewelsAndStones.js)
 - #994 Rotting Oranges https://leetcode.com/problems/rotting-oranges ---> [Solution](LeetCode/easy/rottingoranges.js)
 
 ## Medium
