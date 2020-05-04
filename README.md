@@ -18,6 +18,7 @@ If you happen to see this any feedback is appreciated.
 - #628 Maximum Product of Three Numbers https://leetcode.com/problems/maximum-product-of-three-numbers/ ---> [Solution](LeetCode/easy/maxproductthreenums.js)
 - #771 Jewels and Stones https://leetcode.com/problems/jewels-and-stones/ ---> [Solution](LeetCode/easy/jewelsAndStones.js)
 - #994 Rotting Oranges https://leetcode.com/problems/rotting-oranges ---> [Solution](LeetCode/easy/rottingoranges.js)
+- #1009 Complement of Base 10 Integer https://leetcode.com/problems/complement-of-base-10-integer/ ---> [Solution](LeetCode/easy/numberComplement.js)
 
 ## Medium
 
