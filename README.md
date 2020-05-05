@@ -43,7 +43,7 @@ If you happen to see this any feedback is appreciated.
 - #430 Flatten a Multilevel Doubly Linked List https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list ---> [Solution](LeetCode/medium/flattendoublylinkedlist.js)
 - #560 Subarray Sum Equals K https://leetcode.com/problems/subarray-sum-equals-k ---> [Solution](LeetCode/medium/subarraysumsequalk.js)
 - #692 Top K Frequent Words https://leetcode.com/problems/top-k-frequent-words ---> [Solution](LeetCode/medium/kfrequentwords.js)
-- #972 K Closest Points to Origin https://leetcode.com/problems/k-closest-points-to-origin ---> [Solution](LeetCode/medium/kpoinntsclosetooring.js)
+- #972 K Closest Points to Origin https://leetcode.com/problems/k-closest-points-to-origin ---> [Solution](LeetCode/medium/kPointsClosestToOrigin.js)
 - #1007 Minimum Domino Rotations For Equal Row https://leetcode.com/problems/minimum-domino-rotations-for-equal-row ---> [Solution](LeetCode/medium/dominoRotations.js)
 - #1302 Deeepest Leaves Sum https://leetcode.com/problems/deepest-leaves-sum ---> [Solution](LeetCode/medium/deepestLeavessum.js)
 
