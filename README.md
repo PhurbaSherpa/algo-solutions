@@ -12,6 +12,7 @@ If you happen to see this any feedback is appreciated.
 - #7 Reverse Integer https://leetcode.com/problems/reverse-integer/ ---> [Solution](LeetCode/easy/reverseNumber.js)
 - #70 Climbing Stairs https://leetcode.com/problems/climbing-stairs/ ---> [Solution](LeetCode/easy/climbingStairs.js)
 - #100 Same Tree https://leetcode.com/problems/same-tree/ ---> [Solution](LeetCode/easy/sameTree.js)
+- #169 Majority Element https://leetcode.com/problems/majority-element/ ---> [Solution](LeetCode/easy/majorityElement.js)
 - #189 Rotate Array https://leetcode.com/problems/rotate-array/ ---> [Solution](LeetCode/easy/rotatearray.js)
 - #278 First Bad Version https://leetcode.com/problems/first-bad-version/ ---> [Solution](LeetCode/easy/isBadVersion.js)
 - #383 Ransom Note https://leetcode.com/problems/ransom-note/ --->[Solution](LeetCode/easy/ransomNote.js)
