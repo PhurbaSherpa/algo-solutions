@@ -22,6 +22,7 @@ If you happen to see this any feedback is appreciated.
 - #993 Cousins in Binary Tree https://leetcode.com/problems/cousins-in-binary-tree/ ---> [Solution](LeetCode/easy.binaryCousin.js)
 - #994 Rotting Oranges https://leetcode.com/problems/rotting-oranges ---> [Solution](LeetCode/easy/rottingoranges.js)
 - #1009 Complement of Base 10 Integer https://leetcode.com/problems/complement-of-base-10-integer/ ---> [Solution](LeetCode/easy/numberComplement.js)
+- #1232 Check if it is a Straight Line https://leetcode.com/problems/check-if-it-is-a-straight-line/ ---> [Solution](LeetCode/easy/checkStraightLine.js)
 
 ## Medium
 
