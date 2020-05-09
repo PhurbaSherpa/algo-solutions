@@ -15,6 +15,7 @@ If you happen to see this any feedback is appreciated.
 - #169 Majority Element https://leetcode.com/problems/majority-element/ ---> [Solution](LeetCode/easy/majorityElement.js)
 - #189 Rotate Array https://leetcode.com/problems/rotate-array/ ---> [Solution](LeetCode/easy/rotatearray.js)
 - #278 First Bad Version https://leetcode.com/problems/first-bad-version/ ---> [Solution](LeetCode/easy/isBadVersion.js)
+- #367 Valid Perfect Square https://leetcode.com/problems/valid-perfect-square/ ---> [Solution](LeetCode/easy/perfectSquare.js)
 - #383 Ransom Note https://leetcode.com/problems/ransom-note/ --->[Solution](LeetCode/easy/ransomNote.js)
 - #387 First Unique Character in a String https://leetcode.com/problems/first-unique-character-in-a-string/ --->[Solution](LeetCode/easy/firstUniqueChar.js)
 - #628 Maximum Product of Three Numbers https://leetcode.com/problems/maximum-product-of-three-numbers/ ---> [Solution](LeetCode/easy/maxproductthreenums.js)
