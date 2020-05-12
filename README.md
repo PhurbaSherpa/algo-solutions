@@ -19,6 +19,7 @@ If you happen to see this any feedback is appreciated.
 - #383 Ransom Note https://leetcode.com/problems/ransom-note/ --->[Solution](LeetCode/easy/ransomNote.js)
 - #387 First Unique Character in a String https://leetcode.com/problems/first-unique-character-in-a-string/ --->[Solution](LeetCode/easy/firstUniqueChar.js)
 - #628 Maximum Product of Three Numbers https://leetcode.com/problems/maximum-product-of-three-numbers/ ---> [Solution](LeetCode/easy/maxproductthreenums.js)
+- #773 Flood Fill https://leetcode.com/problems/flood-fill/ ---> [Solution](LeetCode/easy/floodFill.js)
 - #771 Jewels and Stones https://leetcode.com/problems/jewels-and-stones/ ---> [Solution](LeetCode/easy/jewelsAndStones.js)
 - #993 Cousins in Binary Tree https://leetcode.com/problems/cousins-in-binary-tree/ ---> [Solution](LeetCode/easy.binaryCousin.js)
 - #994 Rotting Oranges https://leetcode.com/problems/rotting-oranges ---> [Solution](LeetCode/easy/rottingoranges.js)
