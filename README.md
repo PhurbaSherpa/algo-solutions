@@ -46,6 +46,7 @@ If you happen to see this any feedback is appreciated.
 - #139 Word Break https://leetcode.com/problems/word-break/ ---> [Solution](LeetCode/medium/wordBreak.js)
 - #143 Reorder List https://leetcode.com/problems/reorder-list/ ---> [Soltuion](LeetCode/medium/reorderList.js)
 - #322 Coin Change https://leetcode.com/problems/coin-change/ ---> [Solution](LeetCode/medium/coinChange.js)
+- #402 Remove K Digits https://leetcode.com/problems/remove-k-digits/ ---> [Solution](LeetCode/medium/removeKDigits.js)
 - #430 Flatten a Multilevel Doubly Linked List https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list ---> [Solution](LeetCode/medium/flattendoublylinkedlist.js)
 - #540 Single Element in a Sorted Array https://leetcode.com/problems/single-element-in-a-sorted-array/ ---> [Solution](LeetCode/medium/singleElementSortedArray.js)
 - #560 Subarray Sum Equals K https://leetcode.com/problems/subarray-sum-equals-k ---> [Solution](LeetCode/medium/subarraysumsequalk.js)
