@@ -50,6 +50,7 @@ If you happen to see this any feedback is appreciated.
 - #328 Odd Even Linked List https://leetcode.com/problems/odd-even-linked-list/ ---> [Solution](LeetCode/medium/oddEvenList.js)
 - #402 Remove K Digits https://leetcode.com/problems/remove-k-digits/ ---> [Solution](LeetCode/medium/removeKDigits.js)
 - #430 Flatten a Multilevel Doubly Linked List https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list ---> [Solution](LeetCode/medium/flattendoublylinkedlist.js)
+- #438 Find All Anagrams in a String https://leetcode.com/problems/find-all-anagrams-in-a-string/ ---> [Solution](LeetCode/medium/findAnagrams.js)
 - #540 Single Element in a Sorted Array https://leetcode.com/problems/single-element-in-a-sorted-array/ ---> [Solution](LeetCode/medium/singleElementSortedArray.js)
 - #560 Subarray Sum Equals K https://leetcode.com/problems/subarray-sum-equals-k ---> [Solution](LeetCode/medium/subarraysumsequalk.js)
 - #692 Top K Frequent Words https://leetcode.com/problems/top-k-frequent-words ---> [Solution](LeetCode/medium/kfrequentwords.js)
